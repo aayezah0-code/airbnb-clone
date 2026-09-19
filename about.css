@@ -1,0 +1,32 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background-image: url("ocean4.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.navbar {
+    background:linear-gradient(to right,rgb(155, 248, 248),rgb(17, 189, 223),cadetblue,rgb(4, 66, 97));
+    color: white;
+    padding: 15px;
+    text-align: center;
+}
+
+
+.about {
+    padding: 50px;
+    text-align: center;
+}
+
+.about h1 {
+    margin-bottom: 20px;
+    color: white;
+}
+
+.about p {
+    max-width: 600px;
+    margin: 10px auto;
+    line-height: 1.6;
+    font-weight: 700;
+}
